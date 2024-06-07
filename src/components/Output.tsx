@@ -8,7 +8,7 @@ import Gui from "./commands/Gui";
 import Help from "./commands/Help";
 import Welcome from "./commands/Welcome";
 import History from "./commands/History";
-// import Projects from "./commands/Projects";
+import Projects from "./commands/Projects";
 import Socials from "./commands/Socials";
 import Themes from "./commands/Themes";
 import { OutputContainer, UsageDiv } from "./styles/Output.styled";
@@ -38,6 +38,7 @@ const Output: React.FC<Props> = ({ index, cmd }) => {
           clear: <Clear />,
           echo: <Echo />,
           education: <Education />,
+          projects: <Projects />,
           email: <Email />,
           help: <Help />,
           history: <History />,
