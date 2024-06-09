@@ -62,7 +62,7 @@ const projects = [
   },
   {
     id: 2,
-    title: "GameHUB",
+    title: "GameHub",
     desc: "An ecommerce web application where users can browse various products and make purchases. (dummy website)",
     url: "https://spaghetti-ca.netlify.app",
   },
