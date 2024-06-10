@@ -58,13 +58,13 @@ const projects = [
     id: 1,
     title: "Museum Semester 23",
     desc: "A website for a museum that is intended for children and families.",
-    url: "https://museum-semester-23.netlify.app",
+    url: "https://museum-semester-23.netlify.app","https://github.com/Hallotre/Museum-semester",
   },
   {
     id: 2,
     title: "GameHub",
     desc: "An ecommerce web application where users can browse various products and make purchases. (dummy website)",
-    url: "https://spaghetti-ca.netlify.app",
+    url: "https://spaghetti-ca.netlify.app","https://github.com/Hallotre/HTML-CSS-CA",
   },
  
 ];
