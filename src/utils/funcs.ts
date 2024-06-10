@@ -145,6 +145,8 @@ export const argTab = (
     [
       "1.Museum Semester Project",
       "2.GameHub",
+      "3.GameHub Repo",
+      "4.Museum Repo",
     ].forEach(t => {
       hintsCmds = [...hintsCmds, t];
     });

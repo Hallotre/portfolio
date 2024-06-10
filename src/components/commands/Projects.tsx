@@ -58,13 +58,25 @@ const projects = [
     id: 1,
     title: "Museum Semester 23",
     desc: "A website for a museum that is intended for children and families.",
-    url: "https://museum-semester-23.netlify.app","https://github.com/Hallotre/Museum-semester",
+    url: "https://museum-semester-23.netlify.app",
   },
   {
     id: 2,
     title: "GameHub",
     desc: "An ecommerce web application where users can browse various products and make purchases. (dummy website)",
-    url: "https://spaghetti-ca.netlify.app","https://github.com/Hallotre/HTML-CSS-CA",
+    url: "https://spaghetti-ca.netlify.app",
+  },
+  {
+    id: 3,
+    title: "GameHub",
+    desc: "Github Repo for GameHub project.",
+    url: "https://github.com/Hallotre/HTML-CSS-CA",
+  },
+  {
+    id: 4,
+    title: "Museum",
+    desc: "Github Repo for Museum project.",
+    url: "https://github.com/Hallotre/Museum-semester",
   },
  
 ];
