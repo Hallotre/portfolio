@@ -57,12 +57,6 @@ const socials = [
   },
   {
     id: 2,
-    title: "Linkedin",
-    url: "https://www.linkedin.com/in/tobyhaywood/",
-    tab: 3,
-  },
-  {
-    id: 3,
     title: "X",
     url: "https://twitter.com/TobyHallotre",
     tab: 1,
